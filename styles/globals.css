@@ -7,6 +7,10 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
+
+.gradient {
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
 /*
 @media (prefers-color-scheme: dark) {
   :root {

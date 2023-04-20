@@ -6,7 +6,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head/>
-      <body className='leading-normal tracking-normal text-indigo-400 m-6 bg-cover bg-fixed bg-slate-700'>
+      <body className='leading-normal tracking-normal text-white gradient'>
         <Main />
         <NextScript />
       </body>
